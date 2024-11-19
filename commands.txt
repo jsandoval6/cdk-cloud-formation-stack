@@ -1,0 +1,9 @@
+CDK COMMANDS:
+- cdk init app --language typescript
+- cdk bootstrap
+- cdk synth
+- cdk deploy (--parameters <name>=<value>)
+- cdk list
+- cdk diff
+- cdk doctor
+- cdk destroy
